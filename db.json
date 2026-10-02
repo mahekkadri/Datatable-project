@@ -1,0 +1,804 @@
+{
+  "students": [
+    {
+      "name": "Mahek",
+      "dsa": 82,
+      "maths": 91,
+      "dsaf": 76,
+      "networking": 88,
+      "id": "1"
+    },
+    {
+      "name": "Anaya",
+      "dsa": 67,
+      "maths": 85,
+      "dsaf": 79,
+      "networking": 72,
+      "id": "2"
+    },
+    {
+      "name": "Vivaan",
+      "dsa": 94,
+      "maths": 78,
+      "dsaf": 88,
+      "networking": 91,
+      "id": "3"
+    },
+    {
+      "name": "Aadhya",
+      "dsa": 73,
+      "maths": 96,
+      "dsaf": 81,
+      "networking": 69,
+      "id": "4"
+    },
+    {
+      "name": "Arjun",
+      "dsa": 88,
+      "maths": 74,
+      "dsaf": 92,
+      "networking": 83,
+      "id": "5"
+    },
+    {
+      "name": "Kiara",
+      "dsa": 61,
+      "maths": 89,
+      "dsaf": 75,
+      "networking": 94,
+      "id": "6"
+    },
+    {
+      "name": "Kabir",
+      "dsa": 97,
+      "maths": 82,
+      "dsaf": 69,
+      "networking": 86,
+      "id": "7"
+    },
+    {
+      "name": "Myra",
+      "dsa": 78,
+      "maths": 93,
+      "dsaf": 84,
+      "networking": 77,
+      "id": "8"
+    },
+    {
+      "name": "Aditya",
+      "dsa": 69,
+      "maths": 71,
+      "dsaf": 95,
+      "networking": 89,
+      "id": "9"
+    },
+    {
+      "name": "Ishita",
+      "dsa": 85,
+      "maths": 87,
+      "dsaf": 73,
+      "networking": 96,
+      "id": "10"
+    },
+    {
+      "name": "Vihaan",
+      "dsa": 92,
+      "maths": 68,
+      "dsaf": 86,
+      "networking": 74,
+      "id": "11"
+    },
+    {
+      "name": "Riya",
+      "dsa": 76,
+      "maths": 95,
+      "dsaf": 82,
+      "networking": 67,
+      "id": "12"
+    },
+    {
+      "name": "Atharv",
+      "dsa": 89,
+      "maths": 79,
+      "dsaf": 91,
+      "networking": 85,
+      "id": "13"
+    },
+    {
+      "name": "Avika",
+      "dsa": 64,
+      "maths": 88,
+      "dsaf": 77,
+      "networking": 93,
+      "id": "14"
+    },
+    {
+      "name": "Dhruv",
+      "dsa": 96,
+      "maths": 73,
+      "dsaf": 84,
+      "networking": 79,
+      "id": "15"
+    },
+    {
+      "name": "Saanvi",
+      "dsa": 71,
+      "maths": 92,
+      "dsaf": 89,
+      "networking": 65,
+      "id": "16"
+    },
+    {
+      "name": "Reyansh",
+      "dsa": 83,
+      "maths": 81,
+      "dsaf": 97,
+      "networking": 76,
+      "id": "17"
+    },
+    {
+      "name": "Navya",
+      "dsa": 58,
+      "maths": 86,
+      "dsaf": 72,
+      "networking": 91,
+      "id": "18"
+    },
+    {
+      "name": "Shaurya",
+      "dsa": 91,
+      "maths": 69,
+      "dsaf": 88,
+      "networking": 82,
+      "id": "19"
+    },
+    {
+      "name": "Meera",
+      "dsa": 75,
+      "maths": 98,
+      "dsaf": 66,
+      "networking": 87,
+      "id": "20"
+    },
+    {
+      "name": "Kian",
+      "dsa": 87,
+      "maths": 76,
+      "dsaf": 93,
+      "networking": 71,
+      "id": "21"
+    },
+    {
+      "name": "Ira",
+      "dsa": 68,
+      "maths": 91,
+      "dsaf": 78,
+      "networking": 84,
+      "id": "22"
+    },
+    {
+      "name": "Ansh",
+      "dsa": 95,
+      "maths": 83,
+      "dsaf": 71,
+      "networking": 90,
+      "id": "23"
+    },
+    {
+      "name": "Diya",
+      "dsa": 72,
+      "maths": 89,
+      "dsaf": 94,
+      "networking": 68,
+      "id": "24"
+    },
+    {
+      "name": "Yuvaan",
+      "dsa": 84,
+      "maths": 77,
+      "dsaf": 85,
+      "networking": 92,
+      "id": "25"
+    },
+    {
+      "name": "Kavya",
+      "dsa": 63,
+      "maths": 94,
+      "dsaf": 76,
+      "networking": 81,
+      "id": "26"
+    },
+    {
+      "name": "Rudra",
+      "dsa": 90,
+      "maths": 72,
+      "dsaf": 98,
+      "networking": 79,
+      "id": "27"
+    },
+    {
+      "name": "Siya",
+      "dsa": 79,
+      "maths": 85,
+      "dsaf": 69,
+      "networking": 95,
+      "id": "28"
+    },
+    {
+      "name": "Advait",
+      "dsa": 86,
+      "maths": 97,
+      "dsaf": 82,
+      "networking": 73,
+      "id": "29"
+    },
+    {
+      "name": "Tara",
+      "dsa": 70,
+      "maths": 80,
+      "dsaf": 91,
+      "networking": 88,
+      "id": "30"
+    },
+    {
+      "name": "Ayaan",
+      "dsa": 93,
+      "maths": 75,
+      "dsaf": 87,
+      "networking": 96,
+      "id": "31"
+    },
+    {
+      "name": "Pari",
+      "dsa": 66,
+      "maths": 90,
+      "dsaf": 73,
+      "networking": 85,
+      "id": "32"
+    },
+    {
+      "name": "Krish",
+      "dsa": 81,
+      "maths": 84,
+      "dsaf": 96,
+      "networking": 70,
+      "id": "33"
+    },
+    {
+      "name": "Nisha",
+      "dsa": 74,
+      "maths": 93,
+      "dsaf": 80,
+      "networking": 89,
+      "id": "34"
+    },
+    {
+      "name": "Laksh",
+      "dsa": 98,
+      "maths": 67,
+      "dsaf": 85,
+      "networking": 78,
+      "id": "35"
+    },
+    {
+      "name": "Anika",
+      "dsa": 77,
+      "maths": 88,
+      "dsaf": 92,
+      "networking": 64,
+      "id": "36"
+    },
+    {
+      "name": "Manan",
+      "dsa": 89,
+      "maths": 79,
+      "dsaf": 74,
+      "networking": 91,
+      "id": "37"
+    },
+    {
+      "name": "Khushi",
+      "dsa": 62,
+      "maths": 96,
+      "dsaf": 83,
+      "networking": 75,
+      "id": "38"
+    },
+    {
+      "name": "Darsh",
+      "dsa": 94,
+      "maths": 86,
+      "dsaf": 79,
+      "networking": 93,
+      "id": "39"
+    },
+    {
+      "name": "Palak",
+      "dsa": 71,
+      "maths": 82,
+      "dsaf": 88,
+      "networking": 69,
+      "id": "40"
+    },
+    {
+      "name": "Meet",
+      "dsa": 85,
+      "maths": 91,
+      "dsaf": 77,
+      "networking": 84,
+      "id": "41"
+    },
+    {
+      "name": "Riddhi",
+      "dsa": 79,
+      "maths": 73,
+      "dsaf": 95,
+      "networking": 87,
+      "id": "42"
+    },
+    {
+      "name": "Parth",
+      "dsa": 92,
+      "maths": 89,
+      "dsaf": 68,
+      "networking": 81,
+      "id": "43"
+    },
+    {
+      "name": "Muskan",
+      "dsa": 68,
+      "maths": 97,
+      "dsaf": 84,
+      "networking": 76,
+      "id": "44"
+    },
+    {
+      "name": "Tejas",
+      "dsa": 88,
+      "maths": 78,
+      "dsaf": 91,
+      "networking": 86,
+      "id": "45"
+    },
+    {
+      "name": "Simran",
+      "dsa": 73,
+      "maths": 85,
+      "dsaf": 79,
+      "networking": 94,
+      "id": "46"
+    },
+    {
+      "name": "Yash",
+      "dsa": 96,
+      "maths": 71,
+      "dsaf": 87,
+      "networking": 80,
+      "id": "47"
+    },
+    {
+      "name": "Snehal",
+      "dsa": 65,
+      "maths": 92,
+      "dsaf": 74,
+      "networking": 89,
+      "id": "48"
+    },
+    {
+      "name": "Karan",
+      "dsa": 83,
+      "maths": 76,
+      "dsaf": 98,
+      "networking": 72,
+      "id": "49"
+    },
+    {
+      "name": "Aditi",
+      "dsa": 91,
+      "maths": 88,
+      "dsaf": 81,
+      "networking": 95,
+      "id": "50"
+    },
+    {
+      "name": "Rohan",
+      "dsa": 76,
+      "maths": 69,
+      "dsaf": 90,
+      "networking": 83,
+      "id": "51"
+    },
+    {
+      "name": "Vanya",
+      "dsa": 84,
+      "maths": 94,
+      "dsaf": 72,
+      "networking": 87,
+      "id": "52"
+    },
+    {
+      "name": "Harsh",
+      "dsa": 69,
+      "maths": 81,
+      "dsaf": 93,
+      "networking": 78,
+      "id": "53"
+    },
+    {
+      "name": "Mahi",
+      "dsa": 97,
+      "maths": 73,
+      "dsaf": 86,
+      "networking": 91,
+      "id": "54"
+    },
+    {
+      "name": "Kunal",
+      "dsa": 72,
+      "maths": 89,
+      "dsaf": 78,
+      "networking": 96,
+      "id": "55"
+    },
+    {
+      "name": "Ishaan",
+      "dsa": 89,
+      "maths": 77,
+      "dsaf": 94,
+      "networking": 68,
+      "id": "56"
+    },
+    {
+      "name": "Nandini",
+      "dsa": 63,
+      "maths": 95,
+      "dsaf": 81,
+      "networking": 74,
+      "id": "57"
+    },
+    {
+      "name": "Mohit",
+      "dsa": 86,
+      "maths": 83,
+      "dsaf": 70,
+      "networking": 92,
+      "id": "58"
+    },
+    {
+      "name": "Sahil",
+      "dsa": 78,
+      "maths": 91,
+      "dsaf": 85,
+      "networking": 79,
+      "id": "59"
+    },
+    {
+      "name": "Avni",
+      "dsa": 93,
+      "maths": 68,
+      "dsaf": 89,
+      "networking": 84,
+      "id": "60"
+    },
+    {
+      "name": "Vivek",
+      "dsa": 81,
+      "maths": 96,
+      "dsaf": 76,
+      "networking": 88,
+      "id": "61"
+    },
+    {
+      "name": "Pihu",
+      "dsa": 74,
+      "maths": 87,
+      "dsaf": 92,
+      "networking": 71,
+      "id": "62"
+    },
+    {
+      "name": "Akshay",
+      "dsa": 95,
+      "maths": 79,
+      "dsaf": 84,
+      "networking": 90,
+      "id": "63"
+    },
+    {
+      "name": "Komal",
+      "dsa": 67,
+      "maths": 93,
+      "dsaf": 75,
+      "networking": 82,
+      "id": "64"
+    },
+    {
+      "name": "Nikhil",
+      "dsa": 88,
+      "maths": 72,
+      "dsaf": 97,
+      "networking": 76,
+      "id": "65"
+    },
+    {
+      "name": "Payal",
+      "dsa": 79,
+      "maths": 85,
+      "dsaf": 91,
+      "networking": 69,
+      "id": "66"
+    },
+    {
+      "name": "Raj",
+      "dsa": 92,
+      "maths": 81,
+      "dsaf": 73,
+      "networking": 94,
+      "id": "67"
+    },
+    {
+      "name": "Tanya",
+      "dsa": 71,
+      "maths": 98,
+      "dsaf": 86,
+      "networking": 77,
+      "id": "68"
+    },
+    {
+      "name": "Jay",
+      "dsa": 85,
+      "maths": 74,
+      "dsaf": 93,
+      "networking": 89,
+      "id": "69"
+    },
+    {
+      "name": "Sana",
+      "dsa": 64,
+      "maths": 90,
+      "dsaf": 78,
+      "networking": 95,
+      "id": "70"
+    },
+    {
+      "name": "Dev",
+      "dsa": 98,
+      "maths": 86,
+      "dsaf": 81,
+      "networking": 73,
+      "id": "71"
+    },
+    {
+      "name": "Shreya",
+      "dsa": 77,
+      "maths": 94,
+      "dsaf": 89,
+      "networking": 82,
+      "id": "72"
+    },
+    {
+      "name": "Manav",
+      "dsa": 90,
+      "maths": 78,
+      "dsaf": 95,
+      "networking": 87,
+      "id": "73"
+    },
+    {
+      "name": "Jiya",
+      "dsa": 68,
+      "maths": 83,
+      "dsaf": 76,
+      "networking": 91,
+      "id": "74"
+    },
+    {
+      "name": "Kartik",
+      "dsa": 82,
+      "maths": 97,
+      "dsaf": 85,
+      "networking": 79,
+      "id": "75"
+    },
+    {
+      "name": "Moksh",
+      "dsa": 94,
+      "maths": 71,
+      "dsaf": 88,
+      "networking": 96,
+      "id": "76"
+    },
+    {
+      "name": "Vanya",
+      "dsa": 73,
+      "maths": 89,
+      "dsaf": 80,
+      "networking": 68,
+      "id": "77"
+    },
+    {
+      "name": "Rahul",
+      "dsa": 87,
+      "maths": 76,
+      "dsaf": 92,
+      "networking": 84,
+      "id": "78"
+    },
+    {
+      "name": "Aarohi",
+      "dsa": 79,
+      "maths": 93,
+      "dsaf": 71,
+      "networking": 90,
+      "id": "79"
+    },
+    {
+      "name": "Varun",
+      "dsa": 91,
+      "maths": 82,
+      "dsaf": 97,
+      "networking": 75,
+      "id": "80"
+    },
+    {
+      "name": "Roshni",
+      "dsa": 66,
+      "maths": 88,
+      "dsaf": 79,
+      "networking": 94,
+      "id": "81"
+    },
+    {
+      "name": "Anshika",
+      "dsa": 84,
+      "maths": 95,
+      "dsaf": 87,
+      "networking": 72,
+      "id": "82"
+    },
+    {
+      "name": "Samar",
+      "dsa": 93,
+      "maths": 77,
+      "dsaf": 90,
+      "networking": 86,
+      "id": "83"
+    },
+    {
+      "name": "Aarush",
+      "dsa": 75,
+      "maths": 91,
+      "dsaf": 83,
+      "networking": 78,
+      "id": "84"
+    },
+    {
+      "name": "Kaira",
+      "dsa": 89,
+      "maths": 84,
+      "dsaf": 96,
+      "networking": 70,
+      "id": "85"
+    },
+    {
+      "name": "Sakshi",
+      "dsa": 62,
+      "maths": 97,
+      "dsaf": 74,
+      "networking": 89,
+      "id": "86"
+    },
+    {
+      "name": "Yuvraj",
+      "dsa": 96,
+      "maths": 73,
+      "dsaf": 91,
+      "networking": 85,
+      "id": "87"
+    },
+    {
+      "name": "Aarav",
+      "dsa": 80,
+      "maths": 86,
+      "dsaf": 78,
+      "networking": 93,
+      "id": "88"
+    },
+    {
+      "name": "Niyati",
+      "dsa": 71,
+      "maths": 92,
+      "dsaf": 85,
+      "networking": 76,
+      "id": "89"
+    },
+    {
+      "name": "Ritesh",
+      "dsa": 88,
+      "maths": 79,
+      "dsaf": 94,
+      "networking": 81,
+      "id": "90"
+    },
+    {
+      "name": "Vansh",
+      "dsa": 97,
+      "maths": 85,
+      "dsaf": 72,
+      "networking": 90,
+      "id": "91"
+    },
+    {
+      "name": "Heena",
+      "dsa": 69,
+      "maths": 93,
+      "dsaf": 88,
+      "networking": 74,
+      "id": "92"
+    },
+    {
+      "name": "Pranav",
+      "dsa": 83,
+      "maths": 76,
+      "dsaf": 98,
+      "networking": 87,
+      "id": "93"
+    },
+    {
+      "name": "Isha",
+      "dsa": 76,
+      "maths": 89,
+      "dsaf": 81,
+      "networking": 95,
+      "id": "94"
+    },
+    {
+      "name": "Kushal",
+      "dsa": 91,
+      "maths": 72,
+      "dsaf": 86,
+      "networking": 79,
+      "id": "95"
+    },
+    {
+      "name": "Divya",
+      "dsa": 65,
+      "maths": 96,
+      "dsaf": 77,
+      "networking": 88,
+      "id": "96"
+    },
+    {
+      "name": "Ravi",
+      "dsa": 87,
+      "maths": 81,
+      "dsaf": 93,
+      "networking": 70,
+      "id": "97"
+    },
+    {
+      "name": "Tanvi",
+      "dsa": 74,
+      "maths": 90,
+      "dsaf": 84,
+      "networking": 92,
+      "id": "98"
+    },
+    {
+      "name": "Yashvi",
+      "dsa": 95,
+      "maths": 78,
+      "dsaf": 89,
+      "networking": 83,
+      "id": "99"
+    },
+    {
+      "name": "Ved",
+      "dsa": 82,
+      "maths": 94,
+      "dsaf": 75,
+      "networking": 97,
+      "id": "100"
+    }
+  ]
+}
