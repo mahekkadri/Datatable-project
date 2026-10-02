@@ -134,12 +134,7 @@ The React application fetches the student data from this API and stores it in Re
 ## 🖼️ Screenshot
 
 ### Student Data Table
-
-Add your project screenshot here:
-
-```markdown
-![Student Data Screenshot](./assets/project-ss.png)
-```
+![Student Data Screenshot](./project-ss.png)
 
 ## 🎥 Video Demo
 
